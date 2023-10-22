@@ -81,36 +81,7 @@ export default function Home() {
             </svg>
           </p>
         </div>
-        <div className={styles.faq}>
-          <h3>What's this?</h3>
-          <p>
-            <a
-              href="https://github.com/imyuanx/chatgpt-proxy#introduction"
-              target="_blank"
-            >
-              See more
-            </a>
-          </p>
-          <h3>How to use?</h3>
-          <p>
-            <a
-              href="https://github.com/imyuanx/chatgpt-proxy#how-to-use"
-              target="_blank"
-            >
-              See more
-            </a>
-          </p>
-        </div>
-        <footer className={styles.footer}>
-          {"yuanx@ "}
-          <a href="https://github.com/imyuanx" target="_blank">
-            GitHub
-          </a>
-          {" | "}
-          <a href="https://twitter.com/imyuanx" target="_blank">
-            Twitter
-          </a>
-        </footer>
+
       </main>
       <ToastContainer />
     </>
