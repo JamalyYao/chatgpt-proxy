@@ -164,3 +164,7 @@ $ pnpm start
 <img width="600" src="public/openai-translator.png" alt="Alt text" />
 
 [回到顶部](#简介)
+
+链接：
+https://px.intell-chat.cn/proxy
+https://px.intell-chat.cn/proxy-sse
